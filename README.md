@@ -24,6 +24,10 @@ cd TeleBotInfo
 3. Run the bot:
 python app.py
 
+## Output
+
+The bot logs the fetched Telegram bot details to a local text file for quick review.
+
 
 ## Contributing
 
