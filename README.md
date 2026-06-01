@@ -2,6 +2,11 @@
 
 TeleBotInfo is a Telegram bot implemented using the aiogram library in Python. The bot fetches detailed information about itself from the Telegram Bot API and logs it to a text file.
 
+## Requirements
+
+- Python 3
+- A Telegram bot token from BotFather
+
 ## Getting Started
 
 To get started with the bot:
