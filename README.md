@@ -21,7 +21,12 @@ cd TeleBotInfo
   ```
 - Replace `your_bot_token_here` with your actual bot token obtained from BotFather.
 
-3. Run the bot:
+3. Install the required packages:
+```
+pip install -r requirements.txt
+```
+
+4. Run the bot:
 python app.py
 
 ## Output
